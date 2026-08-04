@@ -1,6 +1,6 @@
 ---
 title: 翻译练习记录
-pubDatetime: 2026-08-05T09:00:00Z
+pubDatetime: 2026-08-04T09:00:00Z
 description: 翻译练习记录——从英文句子写中文译文和英文译文，积累词汇。持续输入内容中...
 gallery: true
 tags:
