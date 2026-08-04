@@ -1,14 +1,9 @@
 ---
 title: 翻译练习记录
 pubDatetime: 2026-08-05T00:00:00Z
-lang: zh
 description: 翻译练习记录——从英文句子写中文译文和英文译文，积累词汇。持续输入内容中……
-cover:
-    image: /image/cover.jpg
-    width: 1280
-    height: 720
-    alt: 翻译练习记录封面
-    caption: 文件翻译
+featured: false
+draft: false
 ---
 
 # 文件翻译 - 学习模型
