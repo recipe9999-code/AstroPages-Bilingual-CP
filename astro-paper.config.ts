@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astropages-bilingual.pages.dev/",
-    title: "AstroPaper Bilingual",
-    description: "A bilingual blog based on Astro Paper",
-    author: "tosaki",
-    profile: "https://t0saki.com",
+    url: "https://bilingual-blog.pages.dev/",
+    title: "你的博客标题",
+    description: "双语博客",
+    author: "你的名字",
+    profile: "https://github.com/recipe9999-code",
     ogImage: "astropaper-og.jpg",
     // Default locale of the bilingual site (Chinese at root, English at /en/).
     // Used as the html lang fallback when Astro.currentLocale is undefined.
@@ -29,7 +29,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/t0saki/AstroPages-Bilingual/edit/main/",
+      url: "https://github.com/recipe9999-code/AstroPages-Bilingual-CP/edit/main/",
     },
     search: "pagefind",
     gallery: {
@@ -38,10 +38,7 @@ export default defineAstroPaperConfig({
     },
   },
   socials: [
-    { name: "github", url: "https://github.com/t0saki/AstroPages-Bilingual" },
-    { name: "x", url: "https://x.com/username" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
-    { name: "mail", url: "mailto:yourmail@gmail.com" },
+    { name: "github", url: "https://github.com/recipe9999-code" },
   ],
   shareLinks: [
     {
