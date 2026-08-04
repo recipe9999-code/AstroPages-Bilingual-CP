@@ -2,6 +2,8 @@
 title: 纠正全球化的弊端
 pubDatetime: 2026-08-05T00:00:00Z
 description: 基于地点的政策能够为在全球化进程中掉队的地区提供一条超越经济民粹主义的发展路径。
+featured: true
+draft: false
 tags:
   - 全球化
   - 经济政策
