@@ -1,7 +1,7 @@
 ---
 title: Righting Globalization's Wrongs
-pubDatetime: 2026-08-05T00:00:00Z
-description: Place-based policies offer regions left behind by globalization a path beyond economic populism.
+pubDatetime: 2026-01-11T00:00:00Z
+description: This is a sample English blog post to demonstrate the bilingual blog system.
 featured: true
 draft: false
 tags:
