@@ -1,8 +1,8 @@
 ---
 title: Righting Globalization's Wrongs
 pubDatetime: 2026-06-20T09:00:00Z
-description: This is a sample English blog post to demonstrate the bilingual blog system.
-featured: true
+description: A short photo essay demonstrating the gallery feature — six travel photographs, each carrying its own camera EXIF.
+gallery: true
 draft: false
 tags:
   - globalization
