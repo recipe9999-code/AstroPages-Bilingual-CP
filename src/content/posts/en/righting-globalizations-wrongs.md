@@ -1,6 +1,6 @@
 ---
 title: Righting Globalization's Wrongs
-pubDatetime: 2026-08-05T00:00:00Z
+pubDatetime: 2026-08-15T00:00:00Z
 description: This is a sample English blog post to demonstrate the bilingual blog system.
 featured: true
 draft: false
